@@ -117,7 +117,7 @@ int main()
     secondHuman.weight = 20;
     secondHuman.Print();
 
-    Foo();
+    Foo(3);
 
     Point b(234,4,5);
     Point a;
